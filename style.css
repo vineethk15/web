@@ -26,9 +26,9 @@ margin-bottom: 0px;
   background-color: #eeeeee;
 }
 
-.mountain img {
-  width: auto;
-  height: 400px;
+.mountain  {
+  max-width:100%;
+  
 }
 
 .Middle {
