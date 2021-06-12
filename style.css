@@ -27,8 +27,8 @@ margin-bottom: 0px;
 }
 
 .mountain {
-  width: 600px;
-  height: 350px;
+  width: 100%;
+  height: auto;
 }
 
 .Middle {
