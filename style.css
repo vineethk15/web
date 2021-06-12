@@ -1,0 +1,54 @@
+body {
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+  margin: 0;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;;
+margin-bottom: 0px;
+
+}
+
+.name {
+    color: #66BFBF;
+  font-size: 5.625em;
+  font-family: "Sacramento", sans-serif;
+  margin-top: 50px;
+  margin-bottom: 0px;
+
+}
+
+/*********************Class Selectors*****************/
+
+.Top {
+  background-color: #eeeeee;
+}
+
+.mountain {
+  width: 600px;
+  height: 350px;
+}
+
+.Middle {
+  background-color: #eeeeee;
+ 
+}
+.Bottom {
+  background-color: #eeeeee;
+  
+}
+.topcloud {
+  position: relative;
+  margin-left: 350px;
+  margin-top: 100px;
+}
+
+.bottomcloud {
+  position: absolute;
+}
+
+.profile{
+    margin-top: 40px;
+}
